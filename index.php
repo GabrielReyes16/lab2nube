@@ -6,6 +6,6 @@
     <title>Lab 2</title>
 </head>
 <body>
-    <h1>Desarrollo de soluciones en la nube!!! :D</h1>
+    <h1>Desarrollo de soluciones en la nube ahora con PHP!!! :D</h1>
 </body>
 </html>
